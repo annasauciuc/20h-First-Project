@@ -155,7 +155,7 @@
   a.social {
     display: inline-block;
     text-indent: -9999px;
-    margin-left: 5px;
+    margin-left: px;
     width: 60px;
     height: 60px;
     background-size: 60px 60px;
